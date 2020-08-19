@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/city-guide/static/css/main.753e7d30.chunk.css",
+    "main.js": "/city-guide/static/js/main.17916c3b.chunk.js",
+    "main.js.map": "/city-guide/static/js/main.17916c3b.chunk.js.map",
+    "runtime-main.js": "/city-guide/static/js/runtime-main.1cb82775.js",
+    "runtime-main.js.map": "/city-guide/static/js/runtime-main.1cb82775.js.map",
+    "static/css/2.11829350.chunk.css": "/city-guide/static/css/2.11829350.chunk.css",
+    "static/js/2.ebb2361b.chunk.js": "/city-guide/static/js/2.ebb2361b.chunk.js",
+    "static/js/2.ebb2361b.chunk.js.map": "/city-guide/static/js/2.ebb2361b.chunk.js.map",
+    "index.html": "/city-guide/index.html",
+    "precache-manifest.07c8b537dfd6e6db17e8bab53cb697fb.js": "/city-guide/precache-manifest.07c8b537dfd6e6db17e8bab53cb697fb.js",
+    "service-worker.js": "/city-guide/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/city-guide/static/css/2.11829350.chunk.css.map",
+    "static/css/main.753e7d30.chunk.css.map": "/city-guide/static/css/main.753e7d30.chunk.css.map",
+    "static/js/2.ebb2361b.chunk.js.LICENSE.txt": "/city-guide/static/js/2.ebb2361b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/city-guide/static/media/logo.f391e657.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cb82775.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ebb2361b.chunk.js",
+    "static/css/main.753e7d30.chunk.css",
+    "static/js/main.17916c3b.chunk.js"
+  ]
+}
